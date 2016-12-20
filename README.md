@@ -1,5 +1,5 @@
 # Multi-agent-pursuit-in-urban-evironment
-This is a course project for the 'Distributed Systems &amp; Sensors' class I had taken at RPI. 
+This is a course project for the 'Distributed Systems &amp; Sensors' class I had taken at RPI. We called this project 'Catching Batman'.
 
 ## Introduction 
 Consider an urban environment where there are many agents that move along a
